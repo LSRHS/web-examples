@@ -1,0 +1,17 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: #d2e2fc;
+    font-family: Courier;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+
+p {
+    font-size: 24px;
+}
