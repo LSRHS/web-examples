@@ -1,4 +1,13 @@
 // This waits until the page is loaded to run code
+console.log("Hello World")
+
+function updateText() {
+
+    var paragraph = document.querySelector('p')
+    paragraph.innerHTML = 'WE HAVE UPDATED IT'
+
+}
+
 window.onload = function () {
 
     // This is a comment in JavaScript
